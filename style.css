@@ -1,0 +1,13 @@
+body{
+    background-image:url("images.jpg") ;
+    background-position: center;
+    background-size: cover;
+   
+} 
+
+#myCanvas{
+    margin-top: 30px;
+    border-style: ridge;
+    border-width: 10px; 
+    
+}
